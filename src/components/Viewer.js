@@ -1,7 +1,7 @@
-const Viewer = ()=>{
+const Viewer = ({count})=>{
     return(
         <div>
-            <h1>viewer</h1>
+            <h2>현재 카운트 : {count}</h2>
         </div>
     )
 

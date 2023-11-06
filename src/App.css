@@ -3,7 +3,8 @@ body{
 }
 
 .App{
-    width: 400px;
+    margin: 0 auto;
+    width: 80%;
 }
 
 .App .section{
